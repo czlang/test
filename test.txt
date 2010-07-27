@@ -18,3 +18,5 @@ It's alive! This will be for testing forever...
 some change here
 
 again testing, github doesn´t recognize me :-(
+
+allright, git now recognizes me, but i´m unable to set master URL - don´t want to type git pul blahblahblah, want to type git pull
