@@ -20,3 +20,5 @@ some change here
 again testing, github doesn´t recognize me :-(
 
 allright, git now recognizes me, but i´m unable to set master URL - don´t want to type git pul blahblahblah, want to type git pull
+
+ok, i got it on tortoisegit, but i wanna bash got working! Just want!
