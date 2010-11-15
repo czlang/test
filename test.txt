@@ -1,1 +1,36 @@
 i prd velebnosti
+
+už se poprali?
+
+sajnskldjcn ksd 
+
+eeeeeeeeeeeeeeeee
+
+Eblblblžbrbl
+
+I´ve broken something, eeeee
+
+Testing git
+
+Added something
+
+Another change
+
+
+It's alive! This will be for testing forever...
+
+...and ever...
+
+...and ever...
+
+...and ever...
+
+...and ever...
+
+some change here
+
+again testing, github doesn´t recognize me :-(
+
+allright, git now recognizes me, but i´m unable to set master URL - don´t want to type git pul blahblahblah, want to type git pull
+
+ok, i got it on tortoisegit, but i wanna bash got working! Just want!
